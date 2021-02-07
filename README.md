@@ -12,8 +12,8 @@
   </a>
 
 
-<h5 align="center">📫 Let's get in touch!</h5>
-<p align="center">
+<h5>📫 Let's get in touch!</h5>
+<p>
   <a target="_blank"href="https://www.linkedin.com/in/carson-jardine/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:h.carsonjardine@gmail.com?subject=Hello%20Carson,%20From%20Github"><img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&labelColor=red&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -21,7 +21,11 @@
 
 <!--
 **carson-jardine/carson-jardine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h5 align="center">📫 Let's get in touch!</h5>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/carson-jardine/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:h.carsonjardine@gmail.com?subject=Hello%20Carson,%20From%20Github"><img src="https://img.shields.io/badge/GMail-red?style=for-the-badge&logo=gmail&labelColor=red&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
