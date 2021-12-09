@@ -4,6 +4,7 @@
 
  #### Currently: 
  :computer: Working as a Software Engineer in Test for Aetna, a CVS Company
+ 💡 Learning Node.js/Javascript 
 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
