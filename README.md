@@ -3,7 +3,7 @@
 ###### Pronouns: She/Her
 
  #### Currently: 
- :computer: Working as a Software Engineer in Test for Aetna, a CVS Company
+ :computer: Working as a Software Engineer for Aetna, a CVS Company
  
  💡 Learning Node.js/Javascript 
 
