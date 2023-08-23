@@ -1,12 +1,12 @@
 ### Hello There, I'm Carson! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I'm a Software Engineer in Denver, CO, and a graduate of the Backend Engineering program at [The Turing School of Software and Design](https://turing.edu/). I am an experienced backend developer with expertise in Node.js and Ruby on Rails.
+
 ###### Pronouns: She/Her
 
  #### Currently: 
- :computer: Working as a Software Engineer for Aetna, a CVS Company
  
- 💡 Learning Node.js/Javascript 
-
+ 💡 Learning TypeScript 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carson-jardine&count_private=true&show_icons=true&bg_color=45,f2e6ff,e5ccff,d7b3ff,cc99ff" alt="Carson's GitHub Stats" /><br>
